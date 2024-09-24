@@ -12,12 +12,14 @@
 {"key": "初中课堂","name": "初中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a","ext": "./py/初中课堂.json"},
 {"key": "高中教育","name": "高中┃课堂","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a","ext": "./py/高中课堂.json"},
 {"key": "FirstAid","name": "科普丨急救[jar]","type": 3,"api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
+{"key": "Bili","name": "探索发现","type": 3,"api": "csp_Bili","style": {"type": "rect","ratio": 1.597},"searchable": 0,"quickSearch": 0,"changeable": 0,"jar":"./jar/fan.txt;md5;5769450f1eccd0c8dc347327736e870a","ext": "./lib/bilibili.json"},
 {"key": "学堂","name": "🅰️学堂┃教育","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/o2.jar","ext": "./lib/学堂教育.json"},
 {"key": "少儿","name": "🅰️少儿┃合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/o2.jar","ext": "./lib/少儿合集.json"},
 {"key": "小学课堂","name": "🅰️小学┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/o2.jar","ext": "./lib/小学课堂.json"},
 {"key": "初中课堂","name": "🅰️初中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/o2.jar","ext": "./lib/初中课堂.json"},
 {"key": "高中课堂","name": "🅰️高中┃课堂","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"jar":"./jar/o2.jar","ext": "./lib/高中课堂.json"},
 {"key":"drpy_js_童趣","name":"少儿丨童趣[js]","type":3,"api":"./lib/drpy2.min.js","changeable":0,"style":{"type":"rect","ratio":1.597},"ext":"./js/童趣.js"}
+
 ],
 "parses":[
 {"name":"Json聚合","type":3,"url":"Demo"},
