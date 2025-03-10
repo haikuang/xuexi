@@ -1,21 +1,12 @@
 {
-  "spider": "./fty.jar;md5;c5e4af339c38ebe176959cbb1e1c0bbc",
+  "spider": "./fty.jar;md5;d7422c79ea5b4479c056b168cdaf95b0",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "🅱豆瓣┃推荐",
-      "type": 3,
-      "api": "csp_DouDou",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
-      "api": "csp_FirstAid",
+      "api": "csp_FirstAidGuard",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
@@ -24,25 +15,11 @@
         "ratio": 3.8
       }
     },
-       {
-      "key": "dr_兔小贝",
-      "name": "📚儿童┃启蒙",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/兔小贝.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
+     {
       "key": "少儿教育",
       "name": "📚少儿┃教育",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -51,14 +28,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/少儿教育.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce4019465168f841292"
       }
     },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -67,14 +44,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/小学课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb42128a"
       }
     },
     {
       "key": "初中课堂",
       "name": "📚初中┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -83,14 +60,14 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/初中课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"
       }
     },
     {
       "key": "高中教育",
       "name": "📚高中┃课堂",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -99,18 +76,20 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": {
-        "json": "./lib/高中课堂.json"
+        "json": "https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"
       }
     }
   ],
-  "logo": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
+  "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
   "lives": [
     {
-      "name": "IPV6②",
+      "name": "LIVE直播",
       "type": 0,
-      "url": "./lib/tv.m3u",
-      "playerType": 1,
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "url": "http://ttkx.cc:55/lib/kx2024.txt",
+      "ua": "okhttp/3",
+      "playerType": 2,
+      "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://diyp2.112114.xyz/logo/{name}.png"
     }
   ]
 }

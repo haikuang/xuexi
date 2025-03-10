@@ -1,15 +1,16 @@
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+  "vodPic": "https://tse3-mm.cn.bing.net/th/id/OIP-C.MeDRTpt92G3S-_kU9BZJEQHaHa?rs=1&pid=ImgDetMain",
   "drives": [
     {
       "name": "小雅",
-      "server": "http://alist.xiaoya.pro/"
+      "server": "http://alist.xiaoya.pro/",
+      "hidden": false,
+      "login": {
+        "username": "admin",
+        "password": "admin"
+      }
     },
-{
-      "name": "小雅2",
-      "server": "http://60.205.200.121:5344/"
-    },
-    {
+  {
       "name": "ECVE",
       "server": "https://pan.ecve.cn"
     },
@@ -41,13 +42,33 @@
       "name": "Oldming",
       "server": "https://pan.oldming.top"
     },
+          {
+            "name": "秋雨",
+            "server": "https://share.qiuyu.org/"
+          },
     {
       "name": "Azad",
       "server": "https://alist.azad.asia/"
     },
     {
       "name": "星梦",
-      "server": "https://pan.bashroot.top"
+      "server": "https://pan.bashroot.top/"
+    },
+
+    {
+      "name": "範本",
+      "server": "https://one.fongmi.com",
+      "hidden": true,
+      "login": {
+        "username": "fongmi",
+        "password": "fongmi"
+      },
+      "params": [
+        {
+          "path": "/安齋拉拉",
+          "pass": "18181818"
+        }
+      ]
     }
   ]
 }
