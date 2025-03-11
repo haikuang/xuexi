@@ -85,7 +85,7 @@
     {
       "name": "LIVE直播",
       "type": 0,
-      "url": "http://ttkx.cc:55/lib/kx2024.txt",
+      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u",
       "ua": "okhttp/3",
       "playerType": 2,
       "epg": "http://diyp2.112114.xyz/?ch={name}&date={date}",
